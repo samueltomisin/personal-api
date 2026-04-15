@@ -14,7 +14,7 @@ app.get('/me', (req, res) => {
   res.status(200).json({
     name: "Samuel Tomisin",
     email: "samueltomisin31@gmail.com",
-    github: "https://github.com/yourusername"
+    github: "https://github.com/samueltomisin",
   });
 });
 
